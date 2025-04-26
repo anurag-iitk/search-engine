@@ -14,6 +14,10 @@ The backend is responsible for processing and indexing data, while the frontend 
 
 ## 🚀 Getting Started
 
+### Prerequisites
+
+- Nodev18.19.1
+
 ### Running the Project
 
 1. **Clone the repository**
